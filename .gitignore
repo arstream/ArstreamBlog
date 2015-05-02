@@ -1,0 +1,9 @@
+node_modules/
+pelicanvenv/
+cache/
+.idea/
+
+develop_server.sh
+publishconf.py
+*.py[cod]
+output
